@@ -1,0 +1,13 @@
+http://colah.github.io/posts/2014-12-Groups-Convolution/
+https://blog.yani.io/filter-group-tutorial/
+https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d
+https://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
+https://ikhlestov.github.io/pages/machine-learning/convolutions-types/#x1-convolutions
+https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+https://towardsdatascience.com/understanding-2d-dilated-convolution-operation-with-examples-in-numpy-and-tensorflow-with-d376b3972b25
+https://www.quora.com/What-is-the-difference-between-Deconvolution-Upsampling-Unpooling-and-Convolutional-Sparse-Coding
+https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0
+http://anishshah.github.io/ml/2017/06/27/SeparableConv.html
+
+
+https://colab.research.google.com/drive/1H3OS_EWICR5_-CgPnA6K4558gOu-SjFe
