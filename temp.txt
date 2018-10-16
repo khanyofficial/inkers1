@@ -19,3 +19,10 @@ Copy of Copy of 3A.ipynb
 
 https://colab.research.google.com/drive/1VwWYH7TWn9-xNxcD5dt84JE4-6C9V_c5
 Testing.ipynb
+
+
+https://colab.research.google.com/drive/1A5u1vniNSnVEyYipToqr-dCAMrcDd_fG
+Epoch 7/7
+60000/60000 [==============================] - 61s 1ms/step - loss: 0.0263 - acc: 0.9920 - val_loss: 0.0276 - val_acc: 0.9917
+10000/10000 [==============================] - 1s 129us/step
+score =  [0.027611081484326495, 0.9917]
