@@ -15,3 +15,7 @@ https://colab.research.google.com/drive/1H3OS_EWICR5_-CgPnA6K4558gOu-SjFe
 https://colab.research.google.com/drive/1VwWYH7TWn9-xNxcD5dt84JE4-6C9V_c5
 Copy of Copy of 3A.ipynb
 [0.025417140822266083, 0.9918]
+
+
+https://colab.research.google.com/drive/1VwWYH7TWn9-xNxcD5dt84JE4-6C9V_c5
+Testing.ipynb
